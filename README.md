@@ -1,2 +1,1 @@
-# steamschool
-CYCKA BLYAT IDI NAHOI
+# School Github 
